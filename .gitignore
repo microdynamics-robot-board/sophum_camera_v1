@@ -1,7 +1,9 @@
 *.OBK
+*.DRC
 *.OLBlck
 *.DBK
 *.DSNlck
+*.csv
 *.log*
 *.rpt*
 *.tag
@@ -11,6 +13,12 @@
 *.dra,*
 *.txt,*
 *.dat,*
+*.dml,*
+*.drl,*
+*.iml,*
+*.art,*
+*.ipc,*
 *AUTOSAVE*
 *.jrl*
 */signoise.run
+Backup of *
