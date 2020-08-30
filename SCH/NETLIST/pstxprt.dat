@@ -1,0 +1,270 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-31-2020 at 00:14:28 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SOPHUM_CAMERA_V1';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411010@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411010@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411010@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR-NON-POL_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411778@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411778@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411778@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411794@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411794@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411794@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR-NON-POL_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411668@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411668@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411668@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411700@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411700@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411700@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR-NON-POL_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411862@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411862@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411862@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411886@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411886@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411886@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411350@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411350@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411350@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR-NON-POL_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411386@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411386@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411386@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411414@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411414@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411414@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411100@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411100@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411100@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR-NON-POL_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411522@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411522@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411522@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR-NON-POL_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411542@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411542@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411542@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411478@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411478@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411478@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411636@ALL.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411636@\all\.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411636@\all\.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ HC1 'FX5-20S-2A-DSA_B2B-20-0R60-TM-V':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1538750@ALL.FX5-20S-2A-DSA.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1538750@\all\.\fx5-20s-2a-dsa.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1538750@\all\.\fx5-20s-2a-dsa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L0603_3.3UH':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411322@ALL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411322@\all\.\inductor.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411322@\all\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'MAGNETIC-BEAD_L0805_FB-600R':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411048@ALL.MAGNETIC-BEAD.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411048@\all\.\magnetic-bead.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411048@\all\.\magnetic-bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_L0603_3.3UH':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411124@ALL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411124@\all\.\inductor.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411124@\all\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_L0603_3.3UH':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411762@ALL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411762@\all\.\inductor.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411762@\all\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_L0603_3.3UH':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411846@ALL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411846@\all\.\inductor.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411846@\all\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'OV-SENSOR_FPC-24-0R80X0R30_OV-S':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1410806@ALL.OV-SENSOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1410806@\all\.\ov-sensor.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1410806@\all\.\ov-sensor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'XC6206P152MR_SOT-23-3-1R00X0R80':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411296@ALL.XC6206P152MR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411296@\all\.\xc6206p152mr.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411296@\all\.\xc6206p152mr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'XC6206P282MR_SOT-23-3-1R00X0R80':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411590@ALL.XC6206P282MR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411590@\all\.\xc6206p282mr.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411590@\all\.\xc6206p282mr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'XC6206P282MR_SOT-23-3-1R00X0R80':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411736@ALL.XC6206P282MR.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411736@\all\.\xc6206p282mr.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411736@\all\.\xc6206p282mr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL-OSC_XTAL-4-3R20X2R50-SM_24':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_CAMERA_V1.SCHEMATIC1(SCH_1):INS1411064@ALL.XTAL-OSC.NORMAL(CHIPS)':
+ C_PATH='@sophum_camera_v1.schematic1(sch_1):ins1411064@\all\.\xtal-osc.normal\(chips)',
+ P_PATH='@sophum_camera_v1.schematic1(sch_1):page1_ins1411064@\all\.\xtal-osc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
