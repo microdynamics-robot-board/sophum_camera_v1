@@ -98,8 +98,7 @@
       (Path "Design Resources"
          "C:\users\abcd\documents\github\sophum_camera_v1\SCH\sophum_camera_v1.dsn")
       (Path "Outputs")
-      (Select "Design Resources"
-         "C:\users\abcd\documents\github\sophum_camera_v1\SCH\sophum_camera_v1.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -110,8 +109,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1182 26 288")
-        (Scroll "-44 101")
-        (Zoom "88")
+        (Scroll "0 38")
+        (Zoom "176")
         (Occurrence "/"))
       (Path
          "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_CAMERA_V1\SCH\SOPHUM_CAMERA_V1.DSN")
