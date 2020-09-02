@@ -1,0 +1,47 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+CIRCLE          37.4            D10
+FLASH     FLASH-1R25-0R85      0.00000  D11
+CIRCLE         21.65            D12
+CIRCLE         55.12            D13
+FLASH     FLASH-1R40-1R00      0.00000  D14
+CIRCLE         39.37            D15
+CIRCLE         43.31            D16
+RECTANGLE      55.12     47.24   0.00000  D17
+RECTANGLE      47.24     55.12   0.00000  D18
+RECTANGLE      59.06     51.18   0.00000  D19
+RECTANGLE      51.18     59.06   0.00000  D20
+RECTANGLE      39.37      31.5   0.00000  D21
+RECTANGLE       31.5     39.37   0.00000  D22
+RECTANGLE      43.31     35.43   0.00000  D23
+RECTANGLE      35.43     43.31   0.00000  D24
+RECTANGLE       31.5     15.75   0.00000  D25
+RECTANGLE      15.75      31.5   0.00000  D26
+RECTANGLE      35.43     19.69   0.00000  D27
+RECTANGLE      19.69     35.43   0.00000  D28
+RECTANGLE       31.5     11.81   0.00000  D29
+RECTANGLE      11.81      31.5   0.00000  D30
+RECTANGLE      35.43     15.75   0.00000  D31
+RECTANGLE      15.75     35.43   0.00000  D32
+SQUARE          31.5   0.00000            D33
+SQUARE         35.43   0.00000            D34
+RECTANGLE         50     44.88   0.00000  D35
+RECTANGLE      44.88        50   0.00000  D36
+RECTANGLE      53.94     48.82   0.00000  D37
+RECTANGLE      48.82     53.94   0.00000  D38
+SQUARE         20.08   0.00000            D39
+SQUARE         24.02   0.00000            D40
+LINE               6            D41
+LINE              20            D42
+LINE               4            D43
+LINE               8            D44
+LINE              10            D45
+LINE              25            D46
+LINE            5.91            D47
+LINE              12            D48
+LINE              15            D49
+LINE              30            D50
+
