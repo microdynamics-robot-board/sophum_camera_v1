@@ -1,0 +1,23 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/abcd/Documents/GitHub/sophum_camera_v1/PCB/sophum_camera_v1.brd    |
+|                                                    Tue Sep 01 20:18:47 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SENSOR_OV_SCL pins MOVED FROM this net (to net name listed on right)
+                                 HC1.16           596.16   39.73
+                                                                  SENSOR_OV_SDA
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SENSOR_OV_SDA pins MOVED FROM this net (to net name listed on right)
+                                 HC1.17           635.53  216.89
+                                                                  SENSOR_OV_SCL
+|------------------------------------------------------------------------------|
+|       Nets changed          :       2                                        |
+|                                                                              |
+|   Total ECO changes reported:       2                                        |
+|------------------------------------------------------------------------------|
